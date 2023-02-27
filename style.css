@@ -5,6 +5,12 @@ body{
 h1{
     font-size: 30px;
 }
+h2{
+    font-size: 30px;
+}
+p{
+    color: dimgray;
+}
 .name-highlight
 {
     color: orange; 
@@ -33,4 +39,10 @@ section{
     border-radius: 5px;
     color: white;
 
+}
+
+.dream-area{
+    background-image: url(complete-web-development-bangla-resources-master/developer-portfolio/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
